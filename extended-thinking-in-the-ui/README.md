@@ -48,3 +48,8 @@ Additionally, I modified the logic for the thinking step dropdown so that it aut
    The model will decide—based on the complexity of your question—whether to go through a short or extended thinking step. After that, it will stream the final response separately to the screen.
 
 The model supports message history, so feel free to engage in a natural back-and-forth and use it just like your own personal LLM-powered application.
+
+### Extended Thinking Example
+
+![chrome_cKnP4CpnGn](https://github.com/user-attachments/assets/b4e5a917-3771-4892-8d07-e0f47c2f3205)
+
